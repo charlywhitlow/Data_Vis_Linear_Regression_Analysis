@@ -6,7 +6,7 @@ The coursework analyses a dataset of health indicators for the state of Florida 
 
 We then compare 2 possible models for the data, and analyse which model is better, and whether the difference is statistically significant.
 
-The work is saved in a Jupyter notebook, which can be [previewed with nbviewer](https://nbviewer.jupyter.org/github/charlywhitlow/Data_Vis_Linear_Regression_Analysis/blob/master/DataVis_RegressionModels.ipynb, "DataVis_RegressionModels.ipynb on nbviewer").
+The work is saved in a Jupyter notebook, which can be [previewed with nbviewer](https://nbviewer.jupyter.org/github/charlywhitlow/Data_Vis_Linear_Regression_Analysis/blob/master/DataVis_RegressionModels.ipynb , "DataVis_RegressionModels.ipynb on nbviewer").
 
 ### Ordinary Least Squares Regression Model
 
